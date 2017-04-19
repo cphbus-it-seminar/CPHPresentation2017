@@ -1,3 +1,9 @@
-# CPHPresentation2017
+# Times and dates
+There are three parts to this morning:
 
-<https://dzone.com/articles/deeper-look-java-8-date-and>
+* [Presentation by Anders9]()
+* [Working with regular expressions to convert dates](RegularExpressionExercises.md)
+* [Overview of time & dates in Java](DateTimeJava.md)
+
+
+
