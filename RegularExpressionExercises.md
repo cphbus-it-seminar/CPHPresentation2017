@@ -45,6 +45,7 @@ Has a set of nice tutorials for regular expressions. Comes highly recommended!
 ### [regex101.com](https://regex101.com)
 Where regexone has a fixed set of exercises, regex101 has an online tool for trying out your own regualar expression. 
 
+## Tasks to be done in groups of two
 
 ### subtask 1
 For this it is recommended that you solve the folowing exercises from regexone: Letters, Digits, Any Digit, Any Non-digit character, Any Character and Period, as well as Capture Group and Capture Sub-group
